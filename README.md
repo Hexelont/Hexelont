@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hexelont
-- 👀 I’m interested in coding, making music and gaming.
-- 🌱 I’m currently learning HTML and FL Studio
+- 👀 I’m interested in coding and making games
+- 🌱 I’m currently learning C# & Unity Game Engine
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me, Reach me by discord or git hub dms if there are any. Hexelont#0001
 
